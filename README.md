@@ -1,1 +1,1 @@
-[text](https://attmosphere.github.io/portfolio/)
+https://attmosphere.github.io/portfolio/
